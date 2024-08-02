@@ -1,0 +1,21 @@
+.wrapper{
+    width: 400px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 100px auto;
+    text-align: center;
+}
+.btn{
+    width: 400px;
+    background-color: green;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-weight: 900;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
